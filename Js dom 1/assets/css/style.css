@@ -1,0 +1,16 @@
+.inputs {
+    margin: 5px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 4px;
+    outline: none;
+}
+.btn {
+    outline: none;
+    transition: .3s;
+}
+.btn:hover {
+    color: #fff;
+    background-color: green;
+    cursor: pointer;
+}
